@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Stanislav Ursache <d34dkn16h7@gmail.com>"]
 
 [dependencies]
+rustlearn = "0.4.2"
